@@ -1,0 +1,9 @@
+name: CrystalCavernsWaiter
+author: 'japicraft'
+version: '${project.version}'
+main: cc.crystalcavernswaiter.CrystalCavernsWaiter
+api-version: '1.20'
+commands:
+  continue:
+    description: Used for internal processes.
+    permission: crystalcaverns.command.continue
